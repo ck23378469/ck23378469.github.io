@@ -1,0 +1,13 @@
+page
+1: 建興宮
+2: 成功社區活動中心
+3: 九樓
+4: 張日興冰店
+5: 下馬厝福德祠
+6: 成功公園與老樹碉堡
+7: 榕樹三兄弟與士官長座椅
+8: 高角樓菜圃
+9: 成功嶺
+
+However, if you only need to display the Word Document, but don't need to edit it, you can use Google Documents' Viewer via an <iframe> to display a remotely hosted .doc/.docx.
+<iframe src="https://docs.google.com/gview?url=http://remote.url.tld/path/to/document.doc&embedded=true"></iframe>
