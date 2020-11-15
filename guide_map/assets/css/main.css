@@ -1373,6 +1373,10 @@
 			color: #000000;
 			padding: 3em 3em 3em;
 		}
+		
+		#main .pagecontent h1{
+			color:#000;
+		}
 			@media screen and (max-width: 480px) {
 
 				#main .pagecontent {
